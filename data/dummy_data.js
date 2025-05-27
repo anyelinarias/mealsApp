@@ -2,26 +2,26 @@ import Category from '../models/category';
 import Meal from '../models/meal';
 
 export const CATEGORIES = [
-  new Category('c1', 'Italian', '#f5428d'),
-  new Category('c2', 'Quick & Easy', '#f54242'),
-  new Category('c3', 'Hamburgers', '#f5a442'),
-  new Category('c4', 'German', '#f5d142'),
-  new Category('c5', 'Light & Lovely', '#368dff'),
-  new Category('c6', 'Exotic', '#41d95d'),
-  new Category('c7', 'Breakfast', '#9eecff'),
-  new Category('c8', 'Asian', '#b9ffb0'),
-  new Category('c9', 'French', '#ffc7ff'),
-  new Category('c10', 'Summer', '#47fced')
+  new Category('c1', 'Cafes Frios', '#e9b8c7'),
+  new Category('c2', 'Cafes Calientes', '#f54242'),
+  new Category('c3', 'Frappes', '#f5a442'),
+  new Category('c4', 'Crepas', '#f5d142'),
+  new Category('c5', 'Sandwiches', '#368dff'),
+  new Category('c6', 'Bagels', '#41d95d'),
+  new Category('c7', 'Pasteles(Rebanadas)', '#9eecff'),
+  new Category('c8', 'Smoothies', '#b9ffb0'),
+  new Category('c9', 'Donas', '#ffc7ff'),
+  new Category('c10', 'Ensaldas', '#47fced')
 ];
 
-export const MEALS = [
+export const MENU = [
   new Meal(
     'm1',
     ['c1', 'c2'],
-    'Spaghetti with Tomato Sauce',
+    'Cafe Latte Normal',
     'affordable',
     'simple',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg',
+    'https://2amorescafe.com/wp-content/uploads/2024/04/latte-frio-cnchocolate.jpg',
     20,
     [
       '4 Tomatoes',
@@ -49,7 +49,7 @@ export const MEALS = [
   new Meal(
     'm2',
     ['c2'],
-    'Toast Hawaii',
+    'Cafes Calientes',
     'affordable',
     'simple',
     // 'https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg',
