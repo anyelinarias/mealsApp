@@ -55,7 +55,7 @@ export const MENU = [
     'Sparkling Mint Espresso',
     'affordable',
     'simple',
-    'https://2amorescafe.com/wp-content/uploads/2024/04/latte-frio-cnchocolate.jpg',
+    'https://www.starbucksathome.com/mx/sites/default/files/2021-06/18-SparklingEspressoWithMint_LongShadow_Cream.png',
     2,
     [
       '1 Shots de espresso',
@@ -87,7 +87,7 @@ export const MENU = [
     'Vietnamese Iced Coffee',
     'affordable',
     'simple',
-    'https://2amorescafe.com/wp-content/uploads/2024/04/latte-frio-cnchocolate.jpg',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXxr8Of7MooCg_JDYWLU076e5m_vJy_-hhA&s',
     3,
     [
       '180 ml de cafe',
@@ -117,7 +117,7 @@ export const MENU = [
     'Iced Latte',
     'affordable',
     'simple',
-    'https://brot.ae/cdn/shop/files/Iced_Latte_1.jpg?v=1746423624',
+    '',
 
     4,
     [
@@ -147,7 +147,7 @@ export const MENU = [
     'Cafe Chai Latte',
     'affordable',
     'simple',
-    'https://www.finedininglovers.com/es/sites/g/files/xknfdk1706/files/2022-01/chai-latte%C2%A9iStock.jpg',
+    'https://www.tapasmagazine.es/wp-content/uploads/2024/03/Receta-de-Chai-Latte-1024x1024.jpg',
     
     4,
     [
@@ -179,7 +179,7 @@ export const MENU = [
     'Vainilla Cappuccino',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.webstaurantstore.com/images/products/large/499151/1908273.jpg',
     
     5,
     [
@@ -211,7 +211,7 @@ export const MENU = [
     'Latte Macchiato',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://starbuckspr.com/wp-content/uploads/2022/12/Latte-Macchiato-768x768-1.jpg',
     
     2,
     [
@@ -240,7 +240,7 @@ export const MENU = [
     'Cafe Americano',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://i.blogs.es/139e0f/cafe-americano2/450_1000.jpeg',
     
     4,
     [
@@ -510,7 +510,7 @@ export const MENU = [
     'Sandwich Cubano',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://keyfoodhollywood.com/wp-content/uploads/2023/07/cuban-sandwich-2021-12-09-09-24-54-utc.jpg',
     
     17,
     [
@@ -548,7 +548,7 @@ export const MENU = [
     'Sandwich de Ensalada de Pollo con Aguacate',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://okdiario.com/img/2018/10/15/sandwich-de-pollo-y-aguacate-655x368.jpg',
     
     20,
     [
@@ -587,7 +587,7 @@ export const MENU = [
     'Sandwich de Attune',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://png.pngtree.com/thumb_back/fw800/background/20240630/pngtree-tuna-sandwich-on-white-background-image_15830971.jpg',
     
     10,
     [
@@ -622,7 +622,7 @@ export const MENU = [
     'Sandwich Tradicional de Jamon',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://static5.depositphotos.com/1020804/534/i/450/depositphotos_5347946-stock-photo-sandwich-with-bacon.jpg',
     
     5,
     [
@@ -654,7 +654,7 @@ export const MENU = [
     'Bagel de Queso, Bacon y Huevo a la Plancha',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.hola.com/horizon/landscape/973ae9735c89-bagel-huevoplancha-adob-t.jpg',
     
     12,
     [
@@ -688,7 +688,7 @@ export const MENU = [
     'Bagel Integral',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.hola.com/horizon/square/bfe5c12c1c61-bagels-rucula-adob-t.jpg',
     
     10,
     [
@@ -726,7 +726,7 @@ export const MENU = [
     'Bagel de Chocolate y Platano',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.theblondechef.com/wp-content/uploads/2015/08/CL1A3213.jpg',
     
     15,
     [
@@ -873,7 +873,7 @@ export const MENU = [
     'Crepa Dulce Basica',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://peopleenespanol.com/thmb/a3G6sm7sKOWS83VeXoe8aRZzJg8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/recetas-10075-masa-para-crepas-basica-2000-1ed1f706c7134ce1a04f2903bf13df84.jpg',
     
     25,
     [
@@ -906,7 +906,7 @@ export const MENU = [
     'Crepa Salada',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://i.pinimg.com/564x/a6/1c/20/a61c20f106c7d3d585c5898186084730.jpg',
     
     25,
     [
@@ -932,6 +932,7 @@ export const MENU = [
     false,
     false
   ),
+  
 
   new Meal(
     'm29',
@@ -939,7 +940,7 @@ export const MENU = [
     'Dona Clasicas Fritas',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://i.pinimg.com/736x/74/e8/e4/74e8e4389ff2f4b939a90f5d12aa92e5.jpg',
     
     30,
     [
@@ -982,7 +983,7 @@ export const MENU = [
     'Donas de Chocolate',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://i.pinimg.com/564x/ee/43/df/ee43df09241e564322f0f1a170e95b53.jpg',
     
     25,
     [
@@ -1018,7 +1019,7 @@ export const MENU = [
     'Ensalda Mediterreanea con Queso Feta',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDpuNeeNlJoF__2V57mtJ-zJb4abLqnmhJGPkgVw4WwQyRZSivByGCBj21zhnlcM8vBJQ9oWuzDUTYu39nTMRtVtc7RjeaZecgQYQ2oPALwaOFGisW_bE2YGYw_BPatz8FAXg-ELBTcWg/w1200-h630-p-k-no-nu/20190122_154322+%25282%2529.jpg',
     
     7,
     [
@@ -1052,7 +1053,7 @@ export const MENU = [
     'Ensalada de Pollo',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://comedera.com/wp-content/uploads/sites/9/2015/10/ensalada-de-pollo.jpg',
     
     10,
     [
@@ -1083,7 +1084,7 @@ export const MENU = [
     'Ensalada de Caprese con Pesto',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://i.pinimg.com/736x/7f/c9/99/7fc9994fbbf2e0dc0af19628b8a1dd21.jpg',
     
     7,
     [
