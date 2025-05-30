@@ -2,16 +2,16 @@ import Category from '../models/category';
 import Meal from '../models/meal';
 
 export const CATEGORIES = [
-  new Category('c1', 'Cafes Frios', '#e9b8c7'),
+  new Category('c1', 'Cafes Frios', '#d8f0e8'),
   new Category('c2', 'Cafes Calientes', '#cfd9c2'),
   new Category('c3', 'Frappes', '#ffebee'),
   new Category('c4', 'Smoothies', '#f0fff0'),
-  new Category('c5', 'Sandwiches', '#d4d4aa'),
-  new Category('c6', 'Bagels', '#41d95d'),
-  new Category('c7', 'Pasteles(Rebanadas)', '#9eecff'),
-  new Category('c8', 'Crepas', '#b9ffb0'),
-  new Category('c9', 'Donas', '#ffc7ff'),
-  new Category('c10', 'Ensaldas', '#47fced')
+  new Category('c5', 'Sandwiches', '#eac9c1'),
+  new Category('c6', 'Bagels', '#fdb7b9'),
+  new Category('c7', 'Pasteles (Rebanadas)', '#e9b8c7'),
+  new Category('c8', 'Crepas', '#ddd6f3'),
+  new Category('c9', 'Donas', '#badfd7'),
+  new Category('c10', 'Ensaldas', '#fcf4dd')
 ];
 
 export const MENU = [
@@ -19,7 +19,7 @@ export const MENU = [
     'm1',
     ['c1'],
     'White Chocolate Mocha',
-    'affordable',
+    'complexity',
     'simple',
     'https://lowcarbyum.com/wp-content/uploads/2022/04/iced-white-chocolate-mocha-sq.jpg',
     4,
@@ -39,14 +39,12 @@ export const MENU = [
       'Vierte la leche espumada sobre el espresso y el chocolate blanco.',
       'Agrega nata montada por encima.',
       'Espolvorea chispas de chocolate blanco para decorar.',
-      '',
-      '',
-      '',
+      
     ],
     false,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
   ),
    
   new Meal(
@@ -71,9 +69,7 @@ export const MENU = [
       'Llena 3/4 de la capacidad de tu vaso con hielo',
       'Vierte lamezcla de la coctelera sobre el vaso lleno de hielo',
       'Completa esta receta añadiendo agua con gas y una ramita de menta',
-      '',
-      '',
-      '',
+      
     ],
     false,
     true,
@@ -101,9 +97,7 @@ export const MENU = [
       'Vierte el cafe recien preparado en tu vaso',
       'Vierte lentamente la leche condensada',
       'Decora tu bebida con una ramita de menta',
-      '',
-      '',
-      '',
+     
     ],
     false,
     true,
@@ -131,9 +125,7 @@ export const MENU = [
       'Llena tu vaso con hielo y vierte el espresso',
       'En otro vaso añade la leche de tu eleccion con un toque de endulzante y batelo',
       'Ahora vierte la leche endlzada sobre el hielo y el espresso y disfruta!!!',
-      '',
-      '',
-      '',
+      
     ],
     false,
     true,
