@@ -117,7 +117,7 @@ export const MENU = [
     'Iced Latte',
     'affordable',
     'simple',
-    '',
+    'https://www.acouplecooks.com/wp-content/uploads/2021/08/Iced-Latte-003.jpg',
 
     4,
     [
@@ -267,7 +267,7 @@ export const MENU = [
     'Frappe de Cafe Clasico',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://starbuckspr.com/wp-content/uploads/2022/12/Mocha-Frappuccino%C2%AE-1024x1024-1-1024x1024.jpg',
     
     5,
     [
@@ -297,7 +297,7 @@ export const MENU = [
     'Frappe de Chocolate',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://st.depositphotos.com/2040193/3403/i/450/depositphotos_34035117-stock-photo-frappuccino.jpg',
     
     5,
     [
@@ -327,7 +327,7 @@ export const MENU = [
     'Frappe de Vainilla con Galletas',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://newmansown.com/wp-content/uploads/2022/11/Pumpkin-Spice-Vanilla-Cookie-Milkshake.jpg',
     
     6,
     [
@@ -356,7 +356,7 @@ export const MENU = [
     'Frappe de Fresa Natural',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.deleitas.com/pics_fotosproductos/22/xmed_fit_frappe-con-sirope-fresa.jpg.pagespeed.ic.fJsv4-RoXX.jpg',
     
     5,
     [
@@ -385,7 +385,7 @@ export const MENU = [
     'Smoothie de Mango y Platano',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://micocinadominicana.com/wp-content/uploads/2021/01/Mango-Banana-Smoothie-Smart-Little-Cookie-2.jpg',
     
     4,
     [
@@ -417,7 +417,7 @@ export const MENU = [
     'Smoothie Verde',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.nattahometaste.com/wp-content/uploads/2020/02/smoothie-verde-receta-500x500.jpga',
     
     5,
     [
@@ -448,7 +448,7 @@ export const MENU = [
     'Smoothie de Fresa y Avena',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.calidadpascual.com/wp-content/uploads/2022/10/c4cc16012490b66d5a8655338e3f5023.jpeg',
     
     8,
     [
@@ -479,7 +479,7 @@ export const MENU = [
     'Smoothie de PinaColada',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.onelovelylife.com/wp-content/uploads/2024/05/Pina-Colada-Smoothie2-2.jpg',
     
     6,
     [
@@ -762,7 +762,7 @@ export const MENU = [
     'Pastel de Chocolate Clasico',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.cocinadelirante.com/sites/default/files/images/2023/08/receta-de-pastel-de-chocolate-facil.jpg',
     
     50,
     [
@@ -800,7 +800,7 @@ export const MENU = [
     'Pastel de Zanahoria',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://cafedelaflor.com/images/productos/20230315161514pag.web_-_2023-03-15t160734.748.jpg',
     
     45,
     [
@@ -835,7 +835,7 @@ export const MENU = [
     'Pastel de Tres Leches',
     'affordable',
     'simple',
-    'https://happybakingdays.com/wp-content/uploads/2024/11/french-vanilla-cappuccino-recipe-480x270.jpg',
+    'https://www.laylita.com/recetas/wp-content/uploads/2018/09/1-Receta-del-tres-leches.jpg',
     
     55,
     [
